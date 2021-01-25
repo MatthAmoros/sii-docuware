@@ -1,0 +1,4 @@
+DOCUWARE_USERNAME = ''
+DOCUWARE_PASSWORD = '*'
+DOCUWARE_ENDPOINT = 'https://<domain>/DocuWare/Platform'
+DOCUWARE_ORGANIZATION = ''
